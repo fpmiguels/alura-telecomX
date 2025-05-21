@@ -73,13 +73,5 @@ Jupyter Notebook
 
 API REST (para extração dos dados)
 
-📁 Estrutura do Projeto
-
-📦 projeto-churn/
-├── 📄 README.md
-├── 📊 Churn_Analysis.ipynb
-└── 📁 dados/
-    └── dados_extraidos.json
-
 👨‍💻 Autor
 Felipe Miguel
